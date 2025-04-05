@@ -1,0 +1,17 @@
+[
+    {
+        "name": "tarea 1",
+        "date": "Thursday 17 de april",
+        "status": "Completada"
+    },
+    {
+        "name": "pasear perro",
+        "date": "Friday 25 de april",
+        "status": "Por iniciar"
+    },
+    {
+        "name": "tarea 3",
+        "date": "Thursday 01 de may",
+        "status": "Por iniciar"
+    }
+]
